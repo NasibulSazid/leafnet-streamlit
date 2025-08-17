@@ -96,10 +96,10 @@ streamlit run app.py
 
 Please fill in your team members' names and their contributions to the project below:
 
-* **\[Team Member 1 Name\]**: \[Description of contributions\]
+* MD Nasibul Islam Sazid[2022-3-60-014]
 
-* **\[Team Member 2 Name\]**: \[Description of contributions\]
+* Sababa Fairoze Prionty[2022-3-60-229]
 
-* **\[Team Member 3 Name\]**: \[Description of contributions\]
+* Anha Dhali[2022-3-60-107]
 
 
